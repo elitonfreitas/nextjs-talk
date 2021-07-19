@@ -4,7 +4,9 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "dependencies": {
     "@emotion/react": "^11.4.0",
@@ -17,6 +19,11 @@
     "styled-system": "^5.1.5"
   },
   "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@storybook/addon-actions": "^6.3.4",
+    "@storybook/addon-essentials": "^6.3.4",
+    "@storybook/addon-links": "^6.3.4",
+    "@storybook/react": "^6.3.4",
     "@types/node": "16.3.2",
     "@types/react": "17.0.14",
     "@types/react-dom": "17.0.9",
@@ -25,6 +32,7 @@
     "@types/styled-system__should-forward-prop": "^5.1.2",
     "@typescript-eslint/eslint-plugin": "^4.28.3",
     "@typescript-eslint/parser": "^4.28.3",
+    "babel-loader": "^8.2.2",
     "babel-plugin-styled-components": "^1.13.2",
     "eslint": "^7.30.0",
     "eslint-config-next": "^11.0.1",
@@ -35,6 +43,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "husky": "^7.0.1",
     "prettier": "^2.3.2",
+    "storybook-addon-emotion-theme": "^2.1.1",
     "typescript": "4.3.5"
   },
   "license": "MIT"
