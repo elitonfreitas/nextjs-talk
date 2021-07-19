@@ -1,0 +1,11 @@
+module.exports = {
+  tabWidth: 2,
+  semi: true,
+  singleQuote: true,
+  printWidth: 140,
+  endOfLine: 'lf',
+  bracketSpacing: true,
+  arrowParens: 'avoid',
+  eslintIntegration: true,
+  stackElements: ['destruct']
+};

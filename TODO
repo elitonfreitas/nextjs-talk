@@ -1,0 +1,43 @@
+Talk React + Next.js
+
+Introdução:
+  ☐ Apresentação do projeto
+  ☐ Criando um novo projeto Next.js
+  ☐ Configurando ambiente de desenvolvimento
+    ☐ Eslint
+    ☐ Prettier
+    ☐ Editorconfig
+    ☐ TypeScript
+
+Apresentando o Next.js:
+  ☐ Estrutura de diretórios
+  ☐ Sistema de rotas
+    ☐ Diretório pages
+    ☐ Diretório api
+
+Introdução ao React:
+  ☐ JSX
+    ☐ Criando um componente
+    ☐ Incluindo style: import CSS, CSS-in-JS, CSS Modules
+  ☐ Componentes de Função e Classe
+  ☐ Props, State e Ciclo de Vida
+  ☐ Manipulando eventos
+  ☐ React Hooks (useState, useEffect)
+
+Criando uma página e componentes:
+  ☐ Custom _app
+  ☐ Custom _document
+    ☐ Head
+    ☐ Main
+    ☐ NextScript
+  ☐ Componentes da página
+    ☐ Header
+    ☐ Menu
+    ☐ Footer
+
+Estratégias de render Next.js:
+  ☐ SSR - Server Side Rendering
+    ☐ Pre-rendering
+  ☐ SSG - Static Site Generation
+  ☐ ISR - Incremental Static Regeneration
+

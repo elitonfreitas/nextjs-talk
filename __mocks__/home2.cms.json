@@ -1,0 +1,937 @@
+{
+  "application": "br_web",
+  "section": "home2",
+  "language": "pt-BR",
+  "content": {
+    "footer": {
+      "business": [
+        {
+          "alt": null,
+          "image": null,
+          "title": "Programa de Afiliados",
+          "url": "/institucional/programa-de-afiliados"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Parcerias",
+          "url": "/institucional/parcerias"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "App Android",
+          "url": "https://play.google.com/store/apps/details?id=com.clickbus.mobile&referrer=adjust_reftag%3DcDrOoTUGHjWKX%26utm_source%3DFooter%26utm_campaign%3Dfooter"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "App IOS",
+          "url": "https://itunes.apple.com/app/apple-store/id889723827?pt=95653972&ct=Footer&mt=8"
+        }
+      ],
+      "categories": [
+        {
+          "alt": null,
+          "image": null,
+          "title": "Destinos",
+          "url": "/onibus"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Glossário",
+          "url": "/glossario"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Rodoviárias",
+          "url": "/rodoviaria"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Viações",
+          "url": "/viacao"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "ClickBus X",
+          "url": "https://www.clickbusx.com.br/"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Cupom de Desconto",
+          "url": "/onibus/cupom"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Dia das Mulheres",
+          "url": "/institucional/dia-das-mulheres"
+        }
+      ],
+      "copyright": "© ClickBus 2021",
+      "help": [
+        {
+          "alt": null,
+          "image": null,
+          "title": "Atendimento",
+          "url": "/institucional/atendimento"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Dúvidas Frequentes",
+          "url": "/institucional/duvidas-frequentes"
+        }
+      ],
+      "institutional": [
+        {
+          "alt": null,
+          "image": null,
+          "title": "Aplicativo",
+          "url": "/institucional/mobile"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Política de Privacidade",
+          "url": "/institucional/politica-de-privacidade"
+        },
+        {
+          "alt": "Termos e Condições",
+          "image": null,
+          "title": "Termos de Uso",
+          "url": "/institucional/termos-de-uso"
+        },
+        {
+          "alt": "Política de Cookies",
+          "image": null,
+          "title": "Política de Cookies",
+          "url": "/institucional/politica-de-cookies"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Sobre Nós",
+          "url": "/institucional/sobre-nos"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Carreiras",
+          "url": "/institucional/carreiras"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Passagens Promocionais",
+          "url": "/onibus/passagens-promocionais"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Tô de Passagem",
+          "url": "https://todepassagem.clickbus.com.br/"
+        }
+      ],
+      "labels": {
+        "business": "Business",
+        "categories": "Categorias",
+        "copyright": "© ClickBus 2020",
+        "customerService": "SAC",
+        "customerSupportHours": "De seg. a sex. das 09h às 18h, exceto feriados.",
+        "help": "Ajuda",
+        "institutional": "Institucional",
+        "paymentMethods": "Pagamento",
+        "phonesFooter": "<p>4020-0148</p><p>0800 038 6013</p>",
+        "poweredBy": "Powered by",
+        "purchaseSecurity": "Compra 100% Segura",
+        "securityCertificate": "Segurança",
+        "learnMoreInfo": "Saiba mais"
+      },
+      "left": null,
+      "paymentMethods": [
+        {
+          "alt": "Master Card",
+          "image": "https://static.clickbus.com/live/icones/mastercard.svg",
+          "title": "Master Card",
+          "url": null,
+          "width": "41px",
+          "height": "25px"
+        },
+        {
+          "alt": "Visa",
+          "image": "https://static.clickbus.com/live/icones/visa.svg",
+          "title": "Visa",
+          "url": null,
+          "width": "60px",
+          "height": "20px"
+        },
+        {
+          "alt": "Amex",
+          "image": "https://static.clickbus.com/live/icones/american-express.svg",
+          "title": "Amex",
+          "url": null,
+          "width": "31px",
+          "height": "30px"
+        },
+        {
+          "alt": "Elo",
+          "image": "https://static.clickbus.com/live/icones/elo.svg",
+          "title": "Elo",
+          "url": null,
+          "width": "31px",
+          "height": "31px"
+        },
+        {
+          "alt": "Diners",
+          "image": "https://static.clickbus.com/live/icones/diners.svg",
+          "title": "Diners",
+          "url": null,
+          "width": "90px",
+          "height": "24px"
+        },
+        {
+          "alt": "Hipercard",
+          "image": "https://static.clickbus.com/live/icones/hipercard.svg",
+          "title": "Hipercard",
+          "url": null,
+          "width": "60px",
+          "height": "26px"
+        }
+      ],
+      "right": null,
+      "securityCertificate": [
+        {
+          "alt": "Cadastur",
+          "image": "https://static.clickbus.com/live/icones/cadastur.svg",
+          "title": "Cadastur",
+          "url": null,
+          "width": "119px",
+          "height": "20px"
+        }
+      ],
+      "social": [
+        {
+          "alt": "Facebook",
+          "image": "https://static.clickbus.com/live/icones/facebook.svg",
+          "title": "Facebook",
+          "url": "https://www.facebook.com/clickbus",
+          "width": "34px",
+          "height": "34px"
+        },
+        {
+          "alt": "YouTube",
+          "image": "https://static.clickbus.com/live/icones/youtube.svg",
+          "title": "YouTube",
+          "url": "https://www.youtube.com/channel/UCyIH7qjfMoTu77im4SCHAqw",
+          "width": "35px",
+          "height": "34px"
+        },
+        {
+          "alt": "Twitter",
+          "image": "https://static.clickbus.com/live/icones/twitter.svg",
+          "title": "Twitter",
+          "url": "https://twitter.com/clickbusbr",
+          "width": "34px",
+          "height": "34px"
+        },
+        {
+          "alt": "Instagram",
+          "image": "https://static.clickbus.com/live/icones/instagram.svg",
+          "title": "Instagram",
+          "url": "https://www.instagram.com/clickbus/",
+          "width": "34px",
+          "height": "34px"
+        }
+      ],
+      "more": [
+        {
+          "alt": null,
+          "image": null,
+          "title": "Expresso Itamarati",
+          "url": "/viacao/expresso-itamarati"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Viação Eucatur",
+          "url": "/viacao/eucatur"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Viação Empresa Cruz",
+          "url": "/viacao/empresa-cruz"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Viação Manoel Rodrigues",
+          "url": "/viacao/manoel-rodrigues"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Viação Princesa do Norte",
+          "url": "/viacao/princesa-do-norte"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Viação Penha",
+          "url": "/viacao/penha"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Expresso União",
+          "url": "/viacao/expresso-uniao"
+        },
+        {
+          "alt": null,
+          "image": null,
+          "title": "Expresso Maringá",
+          "url": "/viacao/expresso-maringa"
+        }
+      ]
+    },
+    "header": {
+      "image": "https://static.clickbus.com/live/ClickBus/logo-clickbus-desk.svg",
+      "labels": {
+        "nada": "nada",
+        "email": "E-mail",
+        "emailValidation": "Digite seu e-mail",
+        "myOrderButton": "Acessar",
+        "myOrderModal": "Veja seu pedido",
+        "orderId": "Número do pedido",
+        "phones": "0800 038 6013",
+        "support": "Atendimento",
+        "supportLink": "/institucional/atendimento",
+        "enterText": "Entrar",
+        "enterUrl": "/login"
+      },
+      "logo": {
+        "alt": "ClickBus",
+        "image": "https://static.clickbus.com/live/ClickBus/logo-clickbus.svg",
+        "title": "ClickBus",
+        "url": "/",
+        "width": "176px",
+        "height": "40px"
+      },
+      "title": "ClickBus",
+      "url": "/"
+    },
+    "aboutUs": {
+      "content": "<img style=\"height: 100px; width: 100px; padding-bottom: 2em\"\r\n            src=\"https://static.clickbus.com/live/ClickBus/clickbus-icon-purple.svg\" alt=\"Passagem de ônibus online sem drama!\">\r\n           \r\n            <h2 style=\"color: rgba(0,0,0,.5)\">Passagem de ônibus online!</h2>\r\n\r\n        <p style=\"text-align: justify;\">A ClickBus é a empresa líder em vendas online de <strong>passagens rodoviárias</strong>, e aqui trabalhamos para facilitar a conexão entre pessoas e seus destinos. A <strong>empresa de ônibus</strong> nasceu em 2013 e, desde então, vem contribuindo para a modernização do setor rodoviário no Brasil trazendo tecnologia e inovação. <strong>Passagem de ônibus</strong> pela internet? É aqui mesmo!</p><br>\r\n\r\n        <h2 style=\"color: rgba(0,0,0,.5)\">Compre sua passagem de ônibus!</h2>\r\n\r\n       <p style=\"text-align: justify;\">Em nossa plataforma, você pode <strong>comprar passagem de ônibus</strong> pela internet tanto pelo aplicativo, gratuito e disponível tanto para iOS quanto Android, quanto pelo site. São mais de 150 empresas para mais de 4 mil destinos em todo o Brasil. Venha descobrir o Brasil com a ClickBus, a sua <strong>rodoviária online</strong>!</p><br>\r\n\r\n        <p style=\"text-align: justify;\">Em poucos cliques você compara e pesquisa preços, horários, classes de serviços e ainda garante sua <strong>passagem online</strong> com muita facilidade. Ah, e para oferecer ainda mais praticidade, com ClickBus você pode efetuar sua compra com diferentes métodos de pagamento. Compre sua passagem de <strong>ônibus</strong> e pague com cartão de crédito, com possibilidade de parcelamento em até 12 vezes, cartão de débito, PayPal ou até mesmo transferência bancária. É simples, rápido e seguro.</p><br>\r\n\r\n      <h2 style=\"color: rgba(0,0,0,.5)\">Viagem de ônibus é na ClickBus</h2>\r\n\r\n         <p style=\"text-align: justify;\">Além de garantir sua viagem com muita segurança e facilidade, você também embarca com muito mais tranquilidade. Tudo isso porque a passagem no celular chegou na <strong>viagem de ônibus</strong>!</p><br>\r\n\r\n      <p style=\"text-align: justify;\">Comprou online sua <strong>passagem</strong>? Embarque mais rápido! Agora você pode embarcar direto e sem filas com empresas que já oferecem esta facilidade. Isso mesmo: sem a necessidade de retirar o bilhete no guichê. É ainda mais modernidade para você <strong>viajar de ônibus</strong>!</p><br>\r\n\r\n      <p style=\"text-align: justify;\">Se precisar de qualquer ajuda, estamos disponíveis de segunda a sexta das 9h às 18h (exceto feriados). Conte sempre conosco!</p><br>\r\n\r\n     <p style=\"text-align: justify;\">Pensou em viajar de ônibus? Pensou em ClickBus! Boas compras e boa viagem :)</p><br>\r\n\r\n     <p>Bus Serviços de Agendamento S.A. | CNPJ sob n.º 17.289.475/0001-42 | <a\r\n                href=\"https://maps.google.com/?q=Av.+Dr.+Cardoso+de+Melo,+1608,+6%C2%BA+andar,+CEP+04548-005+-+S%C3%A3o+Paulo,+SP&amp;entry=gmail&amp;source=g\">Av.\r\n                Dr. Cardoso de Melo, 1608, 6º andar, CEP 04548-005 - São Paulo, SP</a>.</p>\r\n\r\n"
+    },
+    "business": [],
+    "categories": [],
+    "head": {
+      "link": [
+        {
+          "crossorigin": null,
+          "href": "https://www.clickbus.com.br",
+          "hreflang": null,
+          "media": null,
+          "rel": "canonical",
+          "sizes": null,
+          "type": null
+        },
+        {
+          "crossorigin": null,
+          "href": "https://static.clickbus.com/live/ClickBus/favicon-purple-16x16.png",
+          "hreflang": null,
+          "media": null,
+          "rel": "icon",
+          "sizes": "16x16",
+          "type": null
+        },
+        {
+          "crossorigin": null,
+          "href": "https://static.clickbus.com/live/ClickBus/favicon-purple-32x32.png",
+          "hreflang": null,
+          "media": null,
+          "rel": "icon",
+          "sizes": "32x32",
+          "type": null
+        },
+        {
+          "crossorigin": null,
+          "href": "https://www.clickbus.com.br/amp",
+          "hreflang": null,
+          "media": null,
+          "rel": "amphtml",
+          "sizes": null,
+          "type": null
+        }
+      ],
+      "meta": [
+        {
+          "content": "Compre Passagens de Ônibus na ClickBus &#10004;Garanta a sua Passagem  &#10004;Sem Sair de Casa &#10004;Melhores Horários &#10004;As Melhores Viações",
+          "type": "name",
+          "value": "description"
+        },
+        {
+          "content": "index,follow",
+          "type": "name",
+          "value": "robots"
+        },
+        {
+          "content": "Passagem de Ônibus | ClickBus",
+          "type": "property",
+          "value": "og:title"
+        },
+        {
+          "content": "https://www.clickbus.com.br",
+          "type": "property",
+          "value": "og:url"
+        },
+        {
+          "content": "https://static.clickbus.com/live/ClickBus/social/clickbus.png",
+          "type": "property",
+          "value": "og:image"
+        },
+        {
+          "content": "Clickbus",
+          "type": "property",
+          "value": "og:site_name"
+        },
+        {
+          "content": "website",
+          "type": "property",
+          "value": "og:type"
+        },
+        {
+          "content": "Compre Passagens de Ônibus na ClickBus &#10004;Garanta a sua Passagem  &#10004;Sem Sair de Casa &#10004;Melhores Horários &#10004;As Melhores Viações",
+          "type": "property",
+          "value": "og:description"
+        },
+        {
+          "content": "summary",
+          "type": "name",
+          "value": "twitter:card"
+        },
+        {
+          "content": "https://www.clickbus.com.br",
+          "type": "name",
+          "value": "twitter:url"
+        },
+        {
+          "content": "Passagem de Ônibus | ClickBus",
+          "type": "name",
+          "value": "twitter:title"
+        },
+        {
+          "content": "https://static.clickbus.com/live/ClickBus/social/clickbus.png",
+          "type": "name",
+          "value": "twitter:image"
+        },
+        {
+          "content": "Compre Passagens de Ônibus na ClickBus &#10004;Garanta a sua Passagem  &#10004;Sem Sair de Casa &#10004;Melhores Horários &#10004;As Melhores Viações",
+          "type": "name",
+          "value": "twitter:description"
+        },
+        {
+          "content": "207969074CBC86D8B57607056E5B13BD",
+          "type": "name",
+          "value": "msvalidate.01"
+        }
+      ],
+      "script": [
+        {
+          "content": "{ \"@context\" : \"http://schema.org\", \"@type\" : \"Organization\", \"name\" : \"ClickBus\", \"url\": \"https://www.clickbus.com.br/\", \"logo\": \"https://static.clickbus.com/live/ClickBus/logos/clickbus.svg\" }",
+          "type": "application/ld+json"
+        },
+        {
+          "content": "{ \"@context\": \"http://schema.org\", \"@type\": \"WebSite\", \"name\" : \"ClickBus\", \"alternateName\" : \"ClickBus BR\", \"url\": \"https://www.clickbus.com.br/\" }",
+          "type": "application/ld+json"
+        },
+        {
+          "content": "var link = document.createElement(\"link\");link.href = \"https://static.clickbus.com/live/ClickBus/css/force-height.css\";link.rel = \"stylesheet\";document.getElementsByTagName(\"head\")[0].appendChild(link);",
+          "type": "text/javascript"
+        }
+      ],
+      "title": "Passagem de Ônibus | ClickBus"
+    },
+    "help": [],
+    "highlight": [
+      {
+        "alt": "Garanta seu assento com ClickBus ",
+        "image": "https://static.clickbus.com/live/ClickBus/destaques/banner-assento.svg",
+        "text": null,
+        "url": null,
+        "width": "298px",
+        "height": "93px"
+      },
+      {
+        "alt": "Parcele em até 12 vezes com ClickBus",
+        "image": "https://static.clickbus.com/live/ClickBus/destaques/banner-parcele.svg",
+        "text": null,
+        "url": null,
+        "width": "298px",
+        "height": "93px"
+      },
+      {
+        "alt": "Compra 100% segura com ClickBus",
+        "image": "https://static.clickbus.com/live/ClickBus/destaques/banner-compra-segura.svg",
+        "text": null,
+        "url": null,
+        "width": "298px",
+        "height": "93px"
+      }
+    ],
+    "carousel": [
+      {
+        "from": "Belo Horizonte, MG",
+        "to": "Rio de Janeiro, RJ",
+        "price": "19,90",
+        "travelTime": "07h",
+        "imageJpeg": "https://static.clickbus.com/live/destinos/02-rj.jpg",
+        "imageWebp": "https://static.clickbus.com/live/destinos/02-rj.webp",
+        "imageAltText": "Imagem de um dia bonito e ensolarado no Rio de Janeiro.",
+        "redirectUrl": "/onibus/belo-horizonte-mg-terminal-jk/rio-de-janeiro-rj-gloria",
+        "isClickBusX": true
+      },
+      {
+        "from": "Rio de Janeiro, RJ",
+        "to": "Belo Horizonte, MG",
+        "price": "19,90",
+        "travelTime": "07h",
+        "imageJpeg": "https://static.clickbus.com/live/destinos/03-bh.jpg",
+        "imageWebp": "https://static.clickbus.com/live/destinos/03-bh.webp",
+        "imageAltText": "Imagem de um dia bonito e ensolarado em Belo Horizonte.",
+        "redirectUrl": "/onibus/rio-de-janeiro-rj-gloria/belo-horizonte-mg-terminal-jk",
+        "isClickBusX": true
+      },
+      {
+        "from": "Campinas, SP",
+        "to": "Curitiba, PR",
+        "price": "59,90",
+        "travelTime": "06h 30m",
+        "imageJpeg": "https://static.clickbus.com/live/destinos/04-cwb.jpg",
+        "imageWebp": "https://static.clickbus.com/live/destinos/04-cwb.webp",
+        "imageAltText": "Imagem de um dia bonito e ensolarado em Curitiba.",
+        "redirectUrl": "/onibus/campinas-sp/curitiba-pr",
+        "isClickBusX": true
+      },
+      {
+        "from": "Curitiba, PR",
+        "to": "Campinas, SP",
+        "price": "59,90",
+        "travelTime": "06h 30m",
+        "imageJpeg": "https://static.clickbus.com/live/destinos/campinas.png",
+        "imageWebp": "https://static.clickbus.com/live/destinos/campinas.webp",
+        "imageAltText": "Imagem de um dia bonito e ensolarado em Campinas.",
+        "redirectUrl": "/onibus/curitiba-pr/campinas-sp",
+        "isClickBusX": true
+      },
+      {
+        "from": "Teste, TE",
+        "to": "Teste, TE",
+        "price": "59,90",
+        "imageJpeg": "https://static.clickbus.com/live/destinos/03-bh.jpg",
+        "imageWebp": "https://static.clickbus.com/live/destinos/03-bh.webp",
+        "imageAltText": "Imagem de um dia bonito e ensolarado de Teste.",
+        "redirectUrl": "/onibus/campinas-sp/curitiba-pr",
+        "isClickBusX": true
+      }
+    ],
+    "promotionHighlight": {
+      "enabled": true,
+      "image": "https://static.clickbus.com/live/travel-company-logos/clickbus-x.svg",
+      "altImage": "Logo ClickBus X",
+      "seeOffersButton": {
+        "label": "Ver ofertas",
+        "enabled": false
+      },
+      "routes": [
+        {
+          "enabled": true,
+          "price": "R$59,90",
+          "origin": "Rio de Janeiro",
+          "originSlug": "rio-de-janeiro-rj-gloria",
+          "destination": "Belo Horizonte",
+          "destinationSlug": "belo-horizonte-mg-terminal-jk",
+          "title": "Viaje entre Rio de Janeiro e Belo Horizonte a partir de R$ 39,00!",
+          "subtitle": "ClickBus X: Viagem segura, sem surpresas e que cabe no seu bolso",
+          "departureDescription": "Embarque diferenciado! Pontos: Terminal JK em BH e Posto GNV Glória no Rio",
+          "enabledDays": [
+            "Dom",
+            "Seg",
+            "Qui",
+            "Sex"
+          ],
+          "brandLogo": {
+            "img": "https://static.clickbus.com/live/travel-company-logos/clickbus-x.svg",
+            "alt": "Logo ClickBus X"
+          }
+        },
+        {
+          "enabled": true,
+          "price": "R$59,90",
+          "origin": "Belo Horizonte",
+          "originSlug": "belo-horizonte-mg-terminal-jk",
+          "destination": "Rio de Janeiro",
+          "destinationSlug": "rio-de-janeiro-rj-gloria",
+          "title": "Viaje entre Belo Horizonte e Rio de Janeiro a partir de R$ 39,00!",
+          "subtitle": "Conheça a ClickBus X: Viagem garantida e que cabe no seu bolso",
+          "departureDescription": "Embarque diferenciado! Pontos: Terminal JK em BH e Posto GNV Glória no Rio",
+          "enabledDays": [
+            "Dom",
+            "Seg",
+            "Qui",
+            "Sex"
+          ],
+          "brandLogo": {
+            "img": "https://static.clickbus.com/live/travel-company-logos/clickbus-x.svg",
+            "alt": "Logo ClickBus X"
+          }
+        },
+        {
+          "enabled": true,
+          "price": "R$59,90",
+          "origin": "Belo Horizonte",
+          "originSlug": "belo-horizonte-mg-terminal-jk",
+          "destination": "Rio de Janeiro",
+          "destinationSlug": "rio-de-janeiro-rj-gloria",
+          "title": "Passagens a partir de R$ 39,00!",
+          "subtitle": "Conheça a ClickBus X: Ônibus modernos com viagem garantida e que cabe no seu bolso!",
+          "departureDescription": "Embarque diferenciado! Pontos: Terminal JK em BH e Posto GNV Glória no Rio",
+          "enabledDays": [
+            "Dom",
+            "Seg",
+            "Qui",
+            "Sex"
+          ],
+          "brandLogo": {
+            "img": "https://static.clickbus.com/live/travel-company-logos/clickbus-x.svg",
+            "alt": "Logo ClickBus X"
+          }
+        },
+        {
+          "enabled": false,
+          "origin": "Rio de Janeiro",
+          "originSlug": "rio-de-janeiro-rj-gloria",
+          "destination": "Belo Horizonte",
+          "destinationSlug": "belo-horizonte-mg-terminal-jk",
+          "title": "Passagens a partir de R$ 39,00!",
+          "subtitle": "Viaje entre Rio de Janeiro e Belo Horizonte às quintas, sextas, domingos e segundas-feiras",
+          "departureDescription": "Embarque diferenciado! Pontos: Terminal JK em BH e Posto GNV Glória no Rio",
+          "enabledDays": [
+            "Dom",
+            "Seg",
+            "Qui",
+            "Sex"
+          ]
+        }
+      ]
+    },
+    "inMidia": [],
+    "institutional": [],
+    "searchBox": {
+      "title": "Compre sua passagem de ônibus!",
+      "leavingFrom": "Digite aqui sua origem",
+      "departureDate": "Data de partida",
+      "widgetOriginError": "Selecione sua origem",
+      "widgetDepartureDateError": "Selecione a data de partida",
+      "goingTo": "Digite aqui seu destino",
+      "widgetDestinationError": "Selecione o destino",
+      "returnDate": "Volta (opcional)",
+      "widgetReturnDateError": "Selecione a data de volta",
+      "searchWidgetOneWayTrip": "Somente Ida",
+      "searchWidgetRoundTrip": "Ida e Volta",
+      "searchButton": "Encontre sua passagem",
+      "displayRadio": true
+    },
+    "labels": {
+      "business": "Business",
+      "categories": "Categorias",
+      "checkoutError": "Ops! Não conseguimos carregar a tela de pagamento. Por favor, selecione novamente a sua viagem.",
+      "checkoutErrorModalButton": "OK",
+      "customerService": "SAC",
+      "customerSupportHours": "Horário de atendimento: de segunda a sexta-feira das 9h às 18h",
+      "departure": "Saindo de",
+      "email": "E-mail",
+      "emailValidation": "Digite seu e-mail",
+      "goingTo": "Digite aqui seu destino",
+      "help": "Ajuda",
+      "inMidia": "Clickbus na Midia",
+      "institutional": "Institucional",
+      "leavingFrom": "Digite aqui sua origem",
+      "mainHighlightLink": null,
+      "menu": "Menu",
+      "myOrderButton": "Acessar",
+      "myOrderModal": "Veja seu pedido",
+      "myTrips": "Meu Pedido",
+      "orderId": "Número do pedido",
+      "orderIdValidation": "Digite o número do seu pedido",
+      "paymentMethods": "Pagamento",
+      "phones": "suporte@busao.com.br",
+      "phonesFooter": "suporte@busao.com.br",
+      "purchaseSecurity": "Compra 100% Segura",
+      "searchWidgetOneWayTrip": "Somente Ida",
+      "searchWidgetRoundTrip": "Ida e Volta",
+      "securityCertificate": "Segurança",
+      "title": "Compre sua passagem de ônibus!",
+      "buslinesTitle": "+ de 140 <strong>empresas de ônibus</strong> em nosso portfólio!",
+      "buslinesDescription": "Venha descobrir o Brasil com ClickBus. São mais de 4 mil destinos!",
+      "buslinesButtonLabels": "Ver todas as empresas",
+      "buslinesButtonLink": "/viacao",
+      "topDestinationButton": "Conferir",
+      "widgetDepartureDateError": "Selecione a data de partida",
+      "widgetDestinationError": "Selecione o destino",
+      "widgetNoResultError": "Nenhum Resultado",
+      "widgetOriginError": "Selecione sua origem",
+      "widgetReturnDateError": "Selecione a data de volta",
+      "widgetValidations": "Campo obrigatório",
+      "departureDateModalHeader": "Selecione a data de <strong class=\"search-direction\">Partida</strong>",
+      "fromPrice": null,
+      "timedOutGetGeolocation": "Não foi possível encontrar sua localização.",
+      "removeDate": "Remover",
+      "errorDoesNotGetGeolocation": "Não foi possível usar a sua localização",
+      "departureDate": "Data de partida",
+      "hightlightBanner": null,
+      "returnDate": "Volta (opcional)",
+      "unknownError": "Ocorreu um erro inesperado.",
+      "searchButton": "Encontre sua passagem",
+      "tomorrow": "Amanhã",
+      "oldDateDisallowed": "A data selecionada é anterior à hoje",
+      "topDestination": "Principais passagens de ônibus",
+      "placesSuggestionsNotFound": "Não foram encontrados resultados para essa localização.",
+      "permissionDeniedGetGeolocation": "User denied the request for Geolocation.",
+      "arrivalModalHeader": "Selecione o local de <strong class=\"search-direction\">Destino</strong>",
+      "mostWantedPlaces": "Lugares mais buscados",
+      "today": "Hoje",
+      "arrival": "Indo para",
+      "deviceDisabledGeoLocation": "Seu dispositivo não permite usar a localização",
+      "hightlightBannerAlt": null,
+      "hightlightBannerLink": "https://www.clickbus.com.br/institucional/seguranca-reforcada",
+      "locationUnavailableGetGeolocation": "Localização não disponível",
+      "hour": "Horário de atendimento: de seg. a sex. das 09h às 18h, exceto feriados.",
+      "departureModalHeader": "Selecione o local de <strong class=\"search-direction\">Origem</strong>",
+      "browserNoStorageSupport": "No Web Storage support",
+      "returnDateModalHeader": "Selecione a data de <strong class=\"search-direction\">Volta</strong>",
+      "readMore": "Mostrar mais.",
+      "readLess": "Mostrar menos."
+    },
+    "mainHighlight": {
+      "image": "https://static.clickbus.com/live/ClickBus/landing-pages/2021/banners/HS-Banner-Home-Desktop-28.12.jpg",
+      "text": "Compre sua passagem de ônibus!"
+    },
+    "loggedMenu": [
+      {
+        "alt": null,
+        "image": null,
+        "title": "Meus Pedidos",
+        "url": "/cliente/meus-pedidos"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Minha Conta",
+        "url": "/cliente/minha-conta"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Meus métodos de pagamento",
+        "url": "/cliente/meus-metodos-de-pagamento"
+      }
+    ],
+    "notLoggedMenu": [
+      {
+        "alt": null,
+        "image": null,
+        "title": "Cadastre-se",
+        "url": "/cadastro"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Login",
+        "url": "/login"
+      }
+    ],
+    "sideNav": {
+      "url": "/",
+      "logo": null,
+      "image": "https://static.clickbus.com/live/ClickBus/logo-clickbus-sidenav.svg",
+      "labels": null,
+      "title": "ClickBus",
+      "width": "106",
+      "height": "32"
+    },
+    "menu": [
+      {
+        "alt": null,
+        "image": null,
+        "title": "Entrar",
+        "url": "/login"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Meu Pedido",
+        "url": "/meu-pedido"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Central de Atendimento",
+        "url": "/institucional/atendimento"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Dúvidas Frequentes",
+        "url": "/institucional/duvidas-frequentes"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Política de privacidade",
+        "url": "/institucional/politica-de-privacidade"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Termos de uso",
+        "url": "/institucional/termos-de-uso"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Viações",
+        "url": "/viacao"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Rodoviárias",
+        "url": "/rodoviaria"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Destinos",
+        "url": "/onibus"
+      },
+      {
+        "alt": null,
+        "image": null,
+        "title": "Carreiras",
+        "url": "/institucional/carreiras"
+      }
+    ],
+    "paymentMethods": [],
+    "securityCertificate": [],
+    "smartbanner": null,
+    "social": [],
+    "topDestination": [
+      {
+        "alt": "Passagens de ônibus de Rio de Janeiro, RJ para São Paulo, SP",
+        "destination": "São Paulo",
+        "image": {
+          "image1x": "https://static.clickbus.com/live/destinos/large/01-sp.jpg",
+          "image2x": "https://static.clickbus.com/live/destinos/large/01-sp.jpg"
+        },
+        "imageWebp": "https://static.clickbus.com/live/destinos/large/01-sp.webp",
+        "origin": "Rio de Janeiro",
+        "price": null,
+        "url": "/onibus/rio-de-janeiro-rj-todos/sao-paulo-sp-todos",
+        "width": "584px",
+        "height": "285px"
+      },
+      {
+        "alt": "Passagens de ônibus de São Paulo, SP para Rio de Janeiro, RJ",
+        "destination": "Rio de Janeiro",
+        "image": {
+          "image1x": "https://static.clickbus.com/live/destinos/02-rj.jpg",
+          "image2x": "https://static.clickbus.com/live/destinos/02-rj.jpg"
+        },
+        "imageWebp": "https://static.clickbus.com/live/destinos/02-rj.webp",
+        "origin": "São Paulo",
+        "price": null,
+        "url": "/onibus/sao-paulo-sp-todos/rio-de-janeiro-rj-todos",
+        "width": "285px",
+        "height": "285px"
+      },
+      {
+        "alt": "Passagens de ônibus de Rio de Janeiro, RJ para Belo Horizonte, MG",
+        "destination": "Belo Horizonte",
+        "image": {
+          "image1x": "https://static.clickbus.com/live/destinos/03-bh.jpg",
+          "image2x": "https://static.clickbus.com/live/destinos/03-bh.jpg"
+        },
+        "imageWebp": "https://static.clickbus.com/live/destinos/03-bh.webp",
+        "origin": "Rio de Janeiro",
+        "price": null,
+        "url": "/onibus/rio-de-janeiro-rj-todos/belo-horizonte-mg-todos",
+        "width": "285px",
+        "height": "285px"
+      },
+      {
+        "alt": "Passagens de ônibus de São Paulo, SP para Curitiba, PR",
+        "destination": "Curitiba",
+        "image": {
+          "image1x": "https://static.clickbus.com/live/destinos/04-cwb.jpg",
+          "image2x": "https://static.clickbus.com/live/destinos/04-cwb.jpg"
+        },
+        "imageWebp": "https://static.clickbus.com/live/destinos/04-cwb.webp",
+        "origin": "São Paulo",
+        "price": null,
+        "url": "/onibus/sao-paulo-sp-todos/curitiba-pr",
+        "width": "285px",
+        "height": "285px"
+      },
+      {
+        "alt": "Passagens de ônibus de Curitiba, PR para São Paulo, SP",
+        "destination": "São Paulo",
+        "image": {
+          "image1x": "https://static.clickbus.com/live/destinos/05-sp.jpg",
+          "image2x": "https://static.clickbus.com/live/destinos/05-sp.jpg"
+        },
+        "imageWebp": "https://static.clickbus.com/live/destinos/05-sp.webp",
+        "origin": "Curitiba",
+        "price": null,
+        "url": "/onibus/curitiba-pr/sao-paulo-sp-todos",
+        "width": "285px",
+        "height": "285px"
+      },
+      {
+        "alt": "Passagens de ônibus de São Paulo, SP para Belo Horizonte, MG",
+        "destination": "Belo Horizonte",
+        "image": {
+          "image1x": "https://static.clickbus.com/live/destinos/06-bh.jpg",
+          "image2x": "https://static.clickbus.com/live/destinos/06-bh.jpg"
+        },
+        "imageWebp": "https://static.clickbus.com/live/destinos/06-bh.webp",
+        "origin": "São Paulo",
+        "price": null,
+        "url": "/onibus/sao-paulo-sp-todos/belo-horizonte-mg-todos",
+        "width": "285px",
+        "height": "285px"
+      },
+      {
+        "alt": "Passagens de ônibus de Belo Horizonte, MG para Rio de Janeiro, RJ",
+        "destination": "Rio de Janeiro",
+        "image": {
+          "image1x": "https://static.clickbus.com/live/destinos/07-rj.jpg",
+          "image2x": "https://static.clickbus.com/live/destinos/07-rj.jpg"
+        },
+        "imageWebp": "https://static.clickbus.com/live/destinos/07-rj.webp",
+        "origin": "Belo Horizonte",
+        "price": null,
+        "url": "/onibus/belo-horizonte-mg-todos/rio-de-janeiro-rj-todos",
+        "width": "285px",
+        "height": "285px"
+      }
+    ]
+  }
+}
