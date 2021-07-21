@@ -12,9 +12,8 @@ import {
   VariantArgs,
 } from 'infra';
 
-export interface HTMLDivElementProps
-  extends DOMAttributes<'div'>,
-    BorderProps,
+export interface HTMLElementProps
+  extends BorderProps,
     ColorProps,
     GridProps,
     FlexboxProps,
@@ -22,17 +21,9 @@ export interface HTMLDivElementProps
     PositionProps,
     ShadowProps,
     SpaceProps,
-    TypographyProps {}
+    TypographyProps {
+  as?: keyof JSX.IntrinsicElements;
+}
 
-export interface HTMLAnchorElementProps
-  extends DOMAttributes<'a'>,
-    BorderProps,
-    ColorProps,
-    GridProps,
-    FlexboxProps,
-    LayoutProps,
-    PositionProps,
-    ShadowProps,
-    SpaceProps,
-    TypographyProps,
-    VariantArgs {}
+export interface HTMLDivElementProps extends DOMAttributes<'div'>, HTMLElementProps {}
+export interface HTMLAnchorElementProps extends DOMAttributes<'a'>, HTMLElementProps, VariantArgs {}

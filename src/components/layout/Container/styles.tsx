@@ -4,6 +4,4 @@ const defaultStyle: CSSObject = {
   margin: '0 auto',
 };
 
-export const StyledContainer = styled('div', {
-  shouldForwardProp,
-})(defaultStyle, space, color, layout);
+export const StyledContainer = styled('div', { shouldForwardProp })(defaultStyle, space, color, layout);

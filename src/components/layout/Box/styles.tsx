@@ -1,4 +1,17 @@
-import { styled, CSSObject, shouldForwardProp, space, color, layout, flexbox } from 'infra';
+import {
+  CSSObject,
+  shouldForwardProp,
+  styled,
+  background,
+  borders,
+  color,
+  layout,
+  flexbox,
+  grid,
+  position,
+  shadow,
+  space,
+} from 'infra';
 
 const defaultStyle: CSSObject = {
   display: 'block',
@@ -7,4 +20,4 @@ const defaultStyle: CSSObject = {
 
 export const StyledBox = styled('div', {
   shouldForwardProp,
-})(defaultStyle, layout, flexbox, space, color);
+})(defaultStyle, background, borders, color, layout, flexbox, grid, position, shadow, space);

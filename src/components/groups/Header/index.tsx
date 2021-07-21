@@ -25,7 +25,7 @@ export const Header: FC = () => {
   }
 
   return (
-    <Box bg="brand.primary.regular" zIndex={0}>
+    <Box as="header" bg="brand.primary.regular" zIndex={0}>
       <Container display="flex" alignItems="center" color="brand.secondary.regular" padding="2">
         <Box justifyContent={{ base: 'center', md: 'start' }} width={[1 / 3, 1 / 2, 0]}></Box>
         <Box justifyContent={{ base: 'center', md: 'start' }} width={[1 / 3, 1 / 2]}>
